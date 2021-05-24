@@ -1,0 +1,15 @@
+{
+    "name": "nem-c/github-accept-all-invitations-from-org",
+    "description": "Auto-accepts all project invitations from org defined",
+    "type": "project",
+    "require": {
+        "guzzlehttp/guzzle": "^7.3"
+    },
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Nemanja Cimbaljevic",
+            "email": "zion.trooper@gmail.com"
+        }
+    ]
+}
